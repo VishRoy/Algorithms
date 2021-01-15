@@ -14,7 +14,7 @@ let arr = [1, 5,3, 4, 33, 9]
 
 findElement(arr, 33) 
 
-//Binary Search
+//Binary Search - O(log n)
 
 // Only works for sorted array
 
